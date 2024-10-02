@@ -7,3 +7,5 @@ Lab04: Site contendo 3 páginas diferentes.
 Lab16: Calculadora usando HTML, CSS e JavaScript.
 Lab32: Quiz utilizando HTML, CSS e JS.
 Lab64: Primeira experiencia com NodeJs e Rotas.
+Lab32: Quiz utilizadno HTML, CSS e JS.
+Lab64: Primeiro contato com NodeJS e rotas.
